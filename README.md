@@ -3,6 +3,7 @@
 A brief, rolling collection of resources about making things using react-js. Includes date published and content type.
 
 - [React](#react)
+  - [Introductions](#introductions)
   - [Context API](#react-context-api)
   - [Design Patterns](#design-patterns)
 - [React Native](#react-native)
@@ -10,6 +11,16 @@ A brief, rolling collection of resources about making things using react-js. Inc
 ---
 
 ### React
+
+#### Introductions
+
+Useful intro pieces to help get your head around the core concepts of how react works
+
+- 📝 [Removing User Interface Complexity, or Why React is Awesome](https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome) | _May 13, 2014_
+
+  <a href="https://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome">
+  <img src="https://s33.postimg.cc/q4nwxvyrz/Screen_Shot_2018-07-28_at_11.50.05.png" height="200">
+  </a>
 
 #### Context API
 
@@ -19,7 +30,6 @@ A brief, rolling collection of resources about making things using react-js. Inc
   <img src="https://daveceddia.com/images/context-vs-redux@2x.png" height="200">
   </a>
   
-
 #### Design Patterns
 
 - 📹 [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc) | _September 17, 2017_
